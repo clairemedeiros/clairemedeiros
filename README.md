@@ -2,6 +2,8 @@
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning Rust
 
+Read my blog: http://clairemedeiros.com/
+
 <!--
 **clairemedeiros/clairemedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
