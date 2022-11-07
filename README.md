@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on 3D
+- 🐘 [Mastodon](https://mastodon.sdf.org/@clairemedeiros)
+
 <!--
 **clairemedeiros/clairemedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
