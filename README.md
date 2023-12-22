@@ -2,7 +2,6 @@
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on 3D
 - 💬 Check out my [Resume](RESUME.md)
-- 🌱 I made some [GPT Things](https://gpt.clairemedeiros.com)
 
 <!--
 **clairemedeiros/clairemedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
